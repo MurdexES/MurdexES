@@ -1,4 +1,11 @@
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
-[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+# I'm Murad Orujov
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/MurdexES)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)]([linkedin.com/in/akber-sharifov-654743253](https://www.linkedin.com/in/murad-orujov-847a19278/))
+
+## **I'm a Software Developer.**
+<hr/>
+
+<a href="https://github.com/MurdexES">
+  <img src="https://github-readme-stats.vercel.app/api?username=MurdexES&show_icons=true&hide=stars" />
+</a>
